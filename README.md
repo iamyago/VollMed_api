@@ -83,4 +83,4 @@ cd VollMed_api
 
 ---
 
-📌 Este projeto é parte do aprendizado do curso **"Spring Boot 3 - Alrua"**.
+📌 Este projeto é parte do aprendizado do curso **"Spring Boot 3 - Alura"**.
